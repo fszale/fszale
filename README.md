@@ -1,16 +1,17 @@
-### Hi there 👋
+### About me 😎
+I am technical team leader that loves to mentor, build systems and write code.
 
-<!--
-**fszale/fszale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Special Interests 👀
+-- Software automation
+-- Big Data
+-- AutoML
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional Summary 🏢
+-- Moves fast, automates everything, builds foundational products, mentors people, focused on growing business revenue
+-- Transformational leader dedicated to lean product development
+-- Invented and implemented multiple platform systems directly responsible for 10+ millions in revenue and growing
+-- Broad range of experience in leading cloud platforms and technologies
+-- AWS Certified Architect and Developer
+-- Advanced work experience with Big Data, Rules Engines, Machine Learning
+-- Experienced developing and managing local and remote engineering teams
+-- Small business owner
