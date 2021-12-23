@@ -6,9 +6,16 @@ I am technical team leader that loves to mentor, build systems and write code.
   - Big Data
   - AutoML
 
+## Key Capabilities 🏢
+  - Creates decision clarity for the executives
+  - Accelerates delivery of strategic data engineering products
+  - De-risks delivery of advanced analytics and data science products
+  - Innovation driver for digital transformation
+
 ### Professional Summary 🏢
   - Moves fast, automates everything, builds foundational products, mentors people, focused on growing business revenue
-  - Transformational leader dedicated to lean product development
+  - Force multiplier for engineering teams
+  - Transformational innovation leader dedicated to lean product development
   - Invented and implemented multiple platform systems directly responsible for 10+ millions in revenue and growing
   - Broad range of experience in leading cloud platforms and technologies
   - AWS Certified Architect and Developer
