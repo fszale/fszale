@@ -6,13 +6,13 @@ I am technical team leader that loves to mentor, build systems and write code.
   - Big Data
   - AutoML
 
-## Key Capabilities 🏢
+### Key Capabilities 🏢
   - Creates decision clarity for the executives
   - Accelerates delivery of strategic data engineering products
   - De-risks delivery of advanced analytics and data science products
   - Innovation driver for digital transformation
 
-### Professional Summary 🏢
+### Competencies
   - Moves fast, automates everything, builds foundational products, mentors people, focused on growing business revenue
   - Force multiplier for engineering teams
   - Transformational innovation leader dedicated to lean product development
