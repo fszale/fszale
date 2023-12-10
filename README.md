@@ -8,13 +8,6 @@ I am an engineering leader that loves to build products, generate revenue, and b
 - Optimizes for time and value
 - Creates order out of chaos
 
-## Key Capabilities
-- Builds effective engineering teams
-- Reliable executive partner
-- Innovation driver
-- Optimizes for time and value
-- Creates order out of chaos
-
 ### Competencies
 - Moves fast, automates everything, builds foundational products, mentors people, focused on growing business revenue, risk mitigation and cost optimization
 - Force multiplier for engineering teams
