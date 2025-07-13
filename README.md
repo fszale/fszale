@@ -34,4 +34,5 @@ Through [Fractional Consulting](https://www.solidcage.com), I deliver actionable
 
 ### Data Reaktor
 Enrich Your Leads with AI Intelligence using my product [Data Reaktor](https://www.datareaktor.ai)
+
 Transform your raw lead data into highly convertible leads. Upload your CSV files and let the AI system enrich them with signals collected from the Internet in real time.
