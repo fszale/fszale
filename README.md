@@ -28,8 +28,8 @@ I am an engineering leader that loves to build products, generate revenue, and b
 
 ### Fractional Consulting
 Through [Fractional Consulting](https://www.solidcage.com), I deliver actionable strategies to boost productivity, spark innovation, and cut costs. 
-- If you have questions please [Chat with my AI Twin](https://solidcage-ai-twin.streamlit.app/) 
-- Check out my insights on YouTube ([@Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome))
+- If you have questions please [Chat with my AI Twin](https://ai-twin-service-395682521918.us-central1.run.app/) 
+- Check out my insights on YouTube [@Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome)
 - Schedule time with me - [Book a FREE 30-Minute strategy session!](https://cal.com/filip-szalewicz-wl6x3a/30min)
 
 ### Data Reaktor
