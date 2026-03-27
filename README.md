@@ -56,6 +56,16 @@ Deep dives → [guides/deep-dives/README.md](https://github.com/fszale/agentic-p
 
 **Deploy your own digital twins** in minutes using the factory pattern and `twin.yaml` manifests.
 
+### 4. [operational-intelligence-lab](https://github.com/fszale/operational-intelligence-lab) – Real-World Impact & Deployment
+**“Designing and deploying practical AI-driven systems that improve operational performance inside real businesses — with measurable economic impact.”**
+
+- **Rate of Improvement Framework** — the core thesis: AI must accelerate business metrics with compounding curves
+- ROI modeling, Operational Intelligence (OI) operating model, and reusable **agent-ready prompts & skills** for business analysis, workflow implementation, and measurement
+- Dual-track curriculum (AI Implementation Fellows + participating businesses) and templates for intake, progress tracking, case studies, and ROI reports
+- Cohort Zero pilot: proven methodology for embedding agentic workflows into regional and medium-sized organizations
+
+This lab bridges pure agentic technology with **practical transformation** — turning digital twins and multi-agent systems into tangible revenue, efficiency, and operational gains.
+
 ---
 
 ## What I Build & Consult On
