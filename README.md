@@ -71,8 +71,8 @@ This lab bridges pure agentic technology with **practical transformation** — t
 ## What I Build & Consult On
 - **Agentic OS** and autonomous multi-agent architectures
 - **Digital Twins** that mirror expert reasoning and operate inside agent factories
-- **Agent-powered SaaS** for intelligent data analysis and exploration [](https://www.datareaktor.ai)
 - **Agentic-first transformations** for medium-sized technical organizations
+- **Agent-powered SaaS** for intelligent data analysis and exploration
 
 ## Key Capabilities 🏢
 - Architect and ship **Agentic OS** and multi-agent systems that run 24/7
