@@ -1,106 +1,72 @@
-<div align="center">
-  <img src="https://github.com/fszale/fszale/blob/main/547430b4-3002-4c71-bf2c-0bdf9a27bb47.jpg?raw=true" 
-       alt="Filip Szalewicz – Agentic AI Pioneer | Building Agentic OS, Digital Twins & Multi-Agent Systems" 
-       width="100%" 
-       style="border-radius: 12px; max-height: 600px;">
-</div>
+# Hi, I'm Filip Szalewicz
 
-<br>
+**AI-First Transformation Consultant.** I help engineering organizations stop *using AI tools* and start *running an Agentic Operating System.*
 
-# Filip Szalewicz – Agentic AI Pioneer
+I'm a Head of Engineering with 20+ years across VP Engineering, CTO, Architect and Principal Engineer roles, and an implementor of agentic OS methodology. I also take fractional engagements where that fit makes sense. The same kernel I use with clients is open source — pieces of it are below.
 
-**Building production Agentic OS, Digital Twins & Multi-Agent Systems**  
-Fractional CTO driving **agentic-first transformations**
+📅 [Book a Call](https://cal.com/filip-szalewicz-wl6x3a/30min) • 📍 [www.solidcage.com](https://www.solidcage.com)
 
-[Chat with my AI Twin](https://ai-twin-service-395682521918.us-central1.run.app/) • [YouTube @Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome) • [Book FREE 30-min Strategy Call](https://cal.com/filip-szalewicz-wl6x3a/30min) • Founder of [Data Reaktor](https://www.datareaktor.ai)
+[Chat with my AI Twin](https://ai-twin-service-395682521918.us-central1.run.app/) • [YouTube @Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome) • [Data Reaktor](https://www.datareaktor.ai)
 
 ---
 
-## My Open-Source Agentic Ecosystem
+## What I build
 
-This profile is **designed for both humans and agents**. Below are the three core repositories that form a complete, production-ready stack for building, deploying, and scaling **digital twins** and **agentic factories**.
+Production agentic operating systems for engineering organizations: a small, opinionated kernel; digital twins of the principals who actually move the business; a runtime with humans in the loop; and a measurement loop for Rate of Improvement.
 
-### 1. [agent-kernel](https://github.com/fszale/agent-kernel) – The Universal Agentic Kernel
-**“A universal agentic kernel to bring my digital twin best practices to all projects, agent-to-agent factory infrastructure.”**
-
-- 22 reusable agent **skills** (planning, diagnosis, ROI analysis, agent-factory design, etc.)
-- 16 structured **prompt templates**
-- 12 reusable **document templates** + 9 Mermaid diagrams
-- 6 GitHub Actions for continuous self-improvement
-- Portable **digital twin core** that encodes my decision frameworks, philosophy, and operational style
-
-**Inject my digital twin** directly into your projects → [docs/injection-guide.md](https://github.com/fszale/agent-kernel/blob/main/docs/injection-guide.md)  
-See: [PHILOSOPHY.md](https://github.com/fszale/agent-kernel/blob/main/PHILOSOPHY.md) • [AGENTS.md](https://github.com/fszale/agent-kernel/blob/main/AGENTS.md) • [CONTEXT.md](https://github.com/fszale/agent-kernel/blob/main/CONTEXT.md)
-
-> “This is my Digital Twin working at one of my Agentic AI Factories as a Principal Operator.”
-
-### 2. [agentic-playbook](https://github.com/fszale/agentic-playbook) – The Definitive Navigation Layer
-**“The central navigation and orientation layer for teams adopting agentic AI practices.”**
-
-- Role-based guidance for engineers, architects, executives, data analysts, and power users
-- Foundational & deep-dive guides (Agentic Factories, Memory & Context, Self-Improvement Loops, HITL & Guardrails, Digital Twin Agent)
-- Glossary, philosophy, context maps, and agent navigation rules
-- Mandatory phases: Implementation → Execution → Gap Analysis
-
-**Start here** → [audiences/README.md](https://github.com/fszale/agentic-playbook/blob/main/audiences/README.md)  
-Deep dives → [guides/deep-dives/README.md](https://github.com/fszale/agentic-playbook/blob/main/guides/deep-dives/README.md)
-
-### 3. [agent-factory](https://github.com/fszale/agent-factory) – The Runtime for Digital Twins
-**“Agent factory infrastructure to provide runtime hosting for unique agent kernels (digital twins).”**
-
-- Config-driven FastAPI runtime with twin installer & import system
-- Supabase-backed persistence (threads, messages, runs, tasks, approvals, artifacts)
-- Pluggable model providers (including xAI Grok)
-- Admin governance UI + minimal browser chat UI
-- Docker + Cloud Run ready; CLI tools for importing kernels
-
-**Deploy your own digital twins** in minutes using the factory pattern and `twin.yaml` manifests.
-
-### 4. [operational-intelligence-lab](https://github.com/fszale/operational-intelligence-lab) – Real-World Impact & Deployment
-**“Designing and deploying practical AI-driven systems that improve operational performance inside real businesses — with measurable economic impact.”**
-
-- **Rate of Improvement Framework** — the core thesis: AI must accelerate business metrics with compounding curves
-- ROI modeling, Operational Intelligence (OI) operating model, and reusable **agent-ready prompts & skills** for business analysis, workflow implementation, and measurement
-- Dual-track curriculum (AI Implementation Fellows + participating businesses) and templates for intake, progress tracking, case studies, and ROI reports
-- Cohort Zero pilot: proven methodology for embedding agentic workflows into regional and medium-sized organizations
-
-This lab bridges pure agentic technology with **practical transformation** — turning digital twins and multi-agent systems into tangible revenue, efficiency, and operational gains.
+The methodology is open. The work is hands-on.
 
 ---
 
-## What I Build & Consult On
-- **Agentic OS** and autonomous multi-agent architectures
-- **Digital Twins** that mirror expert reasoning and operate inside agent factories
-- **Agentic-first transformations** for medium-sized technical organizations
-- **Agent-powered SaaS** for intelligent data analysis and exploration
+## The ecosystem
 
-## Key Capabilities 🏢
-- Architect and ship **Agentic OS** and multi-agent systems that run 24/7
-- Design and deploy **digital twins** (specialized AI agents) for business processes
-- Lead **agentic-first transformations** that shift entire organizations to autonomous AI workflows
-- Build SaaS platforms powered by agents for intelligent data analysis, exploration, and decision-making
-- Force-multiplier executive partner who delivers measurable revenue impact and operational efficiency
+| Repo | What it is |
+| --- | --- |
+| 🧠 [`agent-kernel`](https://github.com/fszale/agent-kernel) | The methodology — four-file twin contract, skill catalog, twin-builder source mirror |
+| 🧬 [`digital-twin-filip`](https://github.com/fszale/digital-twin-filip) | The reference twin: one principal (me), four role bindings |
+| 🏭 [`agent-factory`](https://github.com/fszale/agent-factory) | The runtime — loads kernel packages with HITL governance + audit |
+| 📊 [`agent-roi-generator`](https://github.com/fszale/agent-roi-generator) | ROI calculator + readiness scorecard for prospective twin engagements |
+| 📈 [`operational-intelligence-lab`](https://github.com/fszale/operational-intelligence-lab) | Rate-of-Improvement tracker for deployed twins |
+| 🗺 [`agentic-playbook`](https://github.com/fszale/agentic-playbook) | The audience-routed map of everything above |
 
-## Competencies
-- **Agentic AI & Autonomous Systems**: Currently building and consulting on production Agentic OS, digital twins, and multi-agent architectures.
-- **SaaS Products Powered by Agents**: Developed and scaled SaaS platforms that leverage AI agents… (10+ million dollars in attributable revenue and growing).
-- **Transformational Leadership**: Deployed agentic-first strategies inside medium-sized technical organizations.
-- **Engineering Team Builder & Multiplier**: Recruit, mentor, and scale high-velocity teams that ship agentic systems fast.
-- **Technical Depth**: AWS Certified Architect & Developer. Deep experience with Big Data, Rules Engines, Machine Learning, and the modern agentic stack.
-
-## Fractional Consulting – Agentic-First Transformation
-Through **[Fractional Consulting](https://www.solidcage.com)** I deliver end-to-end **Agentic OS** design, custom **digital twin** development, full **agentic-first transformation** programs, and SaaS product strategy built on the exact same open-source stack above.
-
-**Ready to get started?**  
-- Chat with **[my AI Twin](https://ai-twin-service-395682521918.us-central1.run.app/)**  
-- Watch latest thinking → **[ @Control-The-Outcome ](https://www.youtube.com/@Control-The-Outcome)**  
-- Book a **FREE 30-minute strategy session** → **[Schedule here](https://cal.com/filip-szalewicz-wl6x3a/30min)**
-
-## Data Reaktor – Agent-Powered Lead Intelligence
-**Enrich Your Leads with Real-Time AI Agents** using **[Data Reaktor](https://www.datareaktor.ai)**.
+If you don't know where to start, **[`agentic-playbook`](https://github.com/fszale/agentic-playbook)** is the front door.
 
 ---
 
-**Topics**: `agentic-ai` `digital-twins` `multi-agent-systems` `agentic-os` `ai-agents` `agentic-factory` `autonomous-systems`
+## Try it without cloning a repo
 
-*This entire profile and the three repositories above are built to be machine-readable and agent-injectable. Clone the kernel, follow the playbook, deploy via the factory — you now have my full digital twin operating system.*
+| App | What it does | Live |
+| --- | --- | --- |
+| Twin Builder Wizard | 10-minute interview → working twin package you own | <https://apps.solidcage.com/twin-portal/twin-builder> |
+| Digital Twin Factory Demo Portal | Browse reference twins doing real work | <https://apps.solidcage.com/twin-portal/> |
+| Agent ROI Generator + Readiness Scorecard | Score readiness + project ROI for one workflow | <https://apps.solidcage.com/agent-roi-generator/> |
+| Agent Factory Admin Dashboard | See HITL, audit, and telemetry surfaces | <https://apps.solidcage.com/twin-portal/admin> |
+| OI Lab Rate-of-Improvement Tracker | The only metric this methodology asks you to optimise | <https://apps.solidcage.com/oi-tracker/> |
+
+---
+
+## Decks worth ten minutes
+
+- 📘 [**The Agentic OS Playbook**](https://apps.solidcage.com/decks/agentic-os-playbook) — flagship 14-slide credential deck for CTOs/VPEs
+- 💸 [**The ROI of AI Employees**](https://apps.solidcage.com/decks/roi-ai-employees) — the economics deck for founders + finance
+- 🏭 [**Digital Twin Factories**](https://apps.solidcage.com/decks/digital-twin-factories) — 10-slide engineering deck on compiling roles into production agents
+
+---
+
+## How to engage
+
+The first call is a 30-minute readiness review, not a sales call.
+
+📅 **[Book at solidcage.com](https://www.solidcage.com)**
+
+---
+
+## Elsewhere
+
+- 🌐 Website — <https://solidcage.com>
+- 💼 LinkedIn — <https://www.linkedin.com/in/fszalewicz/>
+- 🧭 Member, [CTOx](https://ctox.com) — global network of 220+ vetted fractional CTOs
+
+---
+
+*Everything I publish is in service of one bet: that the next decade of engineering leadership belongs to the people who can compose agentic systems, not just consume AI tools. If that's the bet you want to make in your org, [let's talk](https://www.solidcage.com).*
