@@ -4,7 +4,7 @@
 
 I'm a Head of Engineering with 20+ years across VP Engineering, CTO, Architect and Principal Engineer roles, and an implementor of agentic OS methodology. I also take fractional engagements where that fit makes sense. The same kernel I use with clients is open source — pieces of it are below.
 
-📅 [Book a Call](https://crm.solidcage.com/widget/bookings/filip-szalewicz-fractional-cto-calendar-vfs0lblxh) • 📍 [www.solidcage.com](https://www.solidcage.com)
+📅 [Book a Call](https://crm.solidcage.com/widget/bookings/filip-szalewicz-fractional-cto-calendar-vfs0lblxh) • 📍 [www.solidcage.com](https://www.solidcage.com) • 🧬 [apps.solidcage.com](https://apps.solidcage.com)
 
 [Chat with my AI Twin](https://ai-twin-service-395682521918.us-central1.run.app/) • [YouTube @Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome) • [Data Reaktor](https://www.datareaktor.ai)
 
