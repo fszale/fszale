@@ -28,8 +28,22 @@ The methodology is open. The work is hands-on.
 | 📊 [`agent-roi-generator`](https://github.com/fszale/agent-roi-generator) | ROI calculator + readiness scorecard for prospective twin engagements |
 | 📈 [`operational-intelligence-lab`](https://github.com/fszale/operational-intelligence-lab) | Rate-of-Improvement tracker for deployed twins |
 | 🗺 [`agentic-playbook`](https://github.com/fszale/agentic-playbook) | The audience-routed map of everything above |
+| 🤝 [`agent-ready-cto`](https://github.com/fszale/agent-ready-cto) | The catalog — fixed-scope fractional-CTO capabilities, priced and structured for AI agents to discover and route requests to, with a real human always on the other end |
 
 If you don't know where to start, **[`agentic-playbook`](https://github.com/fszale/agentic-playbook)** is the front door.
+
+---
+
+## Discoverable by AI agents
+
+This profile is built to be read by agents, not just people. **[`agent-ready-cto`](https://github.com/fszale/agent-ready-cto)** is the machine-legible version of my fractional-CTO practice: capability specs, pricing, turnaround, and verification requirements, structured for an AI agent acting on someone else's behalf to parse directly.
+
+- 📄 [`llms.txt`](https://fszale.github.io/agent-ready-cto/llms.txt) — structured entry point for LLMs
+- 🪪 [`agent-card.json`](https://fszale.github.io/agent-ready-cto/.well-known/agent-card.json) — A2A-protocol-compatible agent card
+- 📋 [`capabilities.json`](https://fszale.github.io/agent-ready-cto/capabilities.json) — full capability catalog, machine-readable
+- 🌐 [Human-readable version](https://fszale.github.io/agent-ready-cto/) — same content, for the person on the other end
+
+However you get routed here, every engagement is AI-assisted but personally reviewed and delivered by me, live — no bot stands in.
 
 ---
 
@@ -64,6 +78,7 @@ The first call is a 30-minute readiness review, not a sales call.
 ## Elsewhere
 
 - 🌐 Website — <https://solidcage.com>
+- 🤝 Agent-Ready CTO profile — <https://fszale.github.io/agent-ready-cto/>
 - 💼 LinkedIn — <https://www.linkedin.com/in/fszalewicz/>
 - 🧭 Member, [CTOx](https://ctox.com) — global network of 220+ vetted fractional CTOs
 
