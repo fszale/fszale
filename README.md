@@ -6,7 +6,30 @@ I'm a Head of Engineering with 20+ years across VP Engineering, CTO, Architect a
 
 📅 [Book a Call](https://cal.com/filip-szalewicz-wl6x3a/30min) • 📍 [www.solidcage.com](https://www.solidcage.com) • 🧬 [apps.solidcage.com](https://apps.solidcage.com)
 
-[Chat with my AI Twin](https://ai-twin-service-395682521918.us-central1.run.app/) • [YouTube @Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome) • [Data Reaktor](https://www.datareaktor.ai)
+[Chat with my AI Twin](https://ai-twin-service-395682521918.us-central1.run.app/) • [YouTube @Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome)
+
+---
+
+## Products I'm shipping
+
+Current product surfaces — separate from the open agentic OS kernel below.
+
+| Product | What it is | Live |
+| --- | --- | --- |
+| **Vizly** | Conversational analytics | [vizly.ai](https://vizly.ai/) |
+| **TRAVIS** | Aggregate Intelligence travel white-label on Vizly | [aggregateintelligence.com/travis](https://aggregateintelligence.com/travis) |
+| **Data Reaktor** | Agentic B2B intelligence — enrichment, scoring, outreach API/MCP | [datareaktor.ai](https://www.datareaktor.ai) |
+| **lookingGLASS** | Lifestyle / wardrobe consumer + admin product | [lookingglasslifestyle.com](https://lookingglasslifestyle.com/) |
+
+---
+
+## Side project: Dark Factory (Brickworks)
+
+I'm also building **[dark-factory](https://github.com/fszale/dark-factory)** — an open-source virtual dark factory (Brickworks). Materials, parallel lines, quality, and dispatch first in software; a physical tabletop prototype next; a longer path toward useful industrial production.
+
+Live prototype: [dark-factory-fszale.replit.app](https://dark-factory-fszale.replit.app/)
+
+This sits beside the client/product work above — interesting, active, and growing, without replacing the Agentic OS focus of this profile.
 
 ---
 
