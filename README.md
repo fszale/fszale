@@ -17,7 +17,7 @@
 
 The source for these apps is private. Since July 2026: 1,800+ commits across the lookingGLASS v2 repos and 140 on the Data Reaktor app.
 
-I am also Principal Consultant at [Solid Cage](https://www.solidcage.com).
+On the side I consult through [Solid Cage](https://www.solidcage.com) ([details below](#consulting-on-the-side)).
 
 ---
 
@@ -39,6 +39,16 @@ TypeScript, Babylon.js, Fastify. 123 tests. [Run the live prototype](https://dar
 
 ---
 
+## Consulting on the side
+
+I am Principal Consultant at [Solid Cage](https://www.solidcage.com), where I help engineering teams with agentic AI transformation. The work is hands-on: I build agents and workflows with your team on your own systems, not slide decks. The first call is a 30-minute readiness review.
+
+[apps.solidcage.com](https://apps.solidcage.com) has free tools to try first: a digital twin builder, an AI ROI generator and readiness scorecard, a rate-of-improvement tracker, and three short decks on the method. The method itself is open source in [`agentic-playbook`](https://github.com/fszale/agentic-playbook).
+
+[Book 30 minutes](https://cal.com/filip-szalewicz-wl6x3a/30min) · [solidcage.com](https://www.solidcage.com) · [Free tools and decks](https://apps.solidcage.com) · [Chat with my AI twin](https://ai-twin-service-395682521918.us-central1.run.app/) · [Agent-readable profile](https://fszale.github.io/agent-ready-cto/)
+
+---
+
 ## Older work
 
 - [`configuration-driven-design`](https://github.com/fszale/configuration-driven-design): the config-driven pattern I have used across many systems.
@@ -47,4 +57,4 @@ TypeScript, Babylon.js, Fastify. 123 tests. [Run the live prototype](https://dar
 
 ---
 
-<sub>Also: [agent-readable profile](https://fszale.github.io/agent-ready-cto/) · [YouTube](https://www.youtube.com/@Control-The-Outcome)</sub>
+<sub>Reach me: [LinkedIn](https://www.linkedin.com/in/fszalewicz/) · [Book 30 minutes](https://cal.com/filip-szalewicz-wl6x3a/30min) · [solidcage.com](https://www.solidcage.com) · [YouTube: Control The Outcome](https://www.youtube.com/@Control-The-Outcome)</sub>
