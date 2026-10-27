@@ -6,6 +6,37 @@
 
 ---
 
+## Free Grok Bot templates I run in production
+
+I run engineering in small pods where each engineer runs their own bots. These two templates are what keep that working. Both are free.
+
+| Template | What it does | Add it |
+| --- | --- | --- |
+| **Fleet Chief of Staff** | Holds a fleet of specialist bots accountable. Daily staff check, shared fleet memory, a weekly self improvement loop with a score per bot, one Slack channel per project where the bots coordinate. Nothing sends, spends or merges without your yes. It briefs you only on done, stuck or needs a yes. | [x.ai/bot/_gosP8ICIeFfcAROg3Ij-](https://x.ai/bot/_gosP8ICIeFfcAROg3Ij-) |
+| **Virtual CTO** | Technical leadership on call. Architecture reviews, solution reviews, hiring help, 30/60/90 plans, and a workflow built around PR review. It drafts and recommends, you approve what ships. Skills are open source in [`agent-kernel`](https://github.com/fszale/agent-kernel). | [x.ai/bot/eM_J3tkxeQL0JqlBquhyM](https://x.ai/bot/eM_J3tkxeQL0JqlBquhyM) |
+
+### How the pods run
+
+- The bots talk to each other in a shared agent channel and ask a human there when they need one.
+- Sentry errors are the daily work queue. Bots take the clear ones to draft PRs.
+- Standups center on PR reviews. Nobody gives a status update.
+- Humans approve every merge, deploy and send.
+- Every bot reads one shared memory folder before it starts, so it never starts cold.
+
+What it changed: junior engineers working at senior level in weeks. Visible velocity and throughput gains with smaller teams. Less time coordinating, more time building and delivering. An order of magnitude productivity impact on engineering resources.
+
+### How to start
+
+1. Install the template from the link above.
+2. Give it your channels and repos. One project channel and one repo is enough to start.
+3. Start with drafts only.
+4. Add bots one lane at a time. Errors first, then PR review, then planning.
+5. Review the weekly scores and keep what improves.
+
+Want this set up in your pods? [Book 30 minutes](https://cal.com/filip-szalewicz-wl6x3a/30min) with me at [Solid Cage](https://www.solidcage.com).
+
+---
+
 ## Apps I build
 
 | App | What it does | My role | Stack | Link |
