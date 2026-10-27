@@ -18,7 +18,8 @@ I run engineering in small pods where each engineer runs their own bots. These t
 ### How the pods run
 
 - The bots talk to each other in a shared agent channel and ask a human there when they need one.
-- Sentry errors are the daily work queue. Bots take the clear ones to draft PRs.
+- Work comes in from the bug tracker, the feature tracker and production errors. Bots turn it into draft PRs across the whole product.
+- Every PR is written for the humans reviewing it: plain language, screenshots, charts and diagrams.
 - Standups center on PR reviews. Nobody gives a status update.
 - Humans approve every merge, deploy and send.
 - Every bot reads one shared memory folder before it starts, so it never starts cold.
@@ -30,7 +31,7 @@ What it changed: junior engineers working at senior level in weeks. Visible velo
 1. Install the template from the link above.
 2. Give it your channels and repos. One project channel and one repo is enough to start.
 3. Start with drafts only.
-4. Add bots one lane at a time. Errors first, then PR review, then planning.
+4. Add bots one lane at a time. Start with one work source, then PR review, then planning.
 5. Review the weekly scores and keep what improves.
 
 Want this set up in your pods? [Book 30 minutes](https://cal.com/filip-szalewicz-wl6x3a/30min) with me at [Solid Cage](https://www.solidcage.com).
